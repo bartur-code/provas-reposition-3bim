@@ -12,10 +12,10 @@ def maioroumenor(a, b, c, d, e):
  
 
 # 5 6 1 9 10   
-a = 5
-b = 6
-c = 1
-d = 9
-e = 10 
-menor = maioroumenor(5, 6, 1, 9, 10)
+a = int(input()) 
+b = int(input()) 
+c = int(input()) 
+d = int(input()) 
+e = int(input()) 
+menor = maioroumenor(a, b, c, d, e)
 print(menor)
